@@ -12,7 +12,6 @@ def append_metadata_all(metadata_file: str, metadata_all_file: str):
     metadata_all["dataStructures"].append(dataset)
 
     metadata_all_enriched_file = metadata_all_file.replace(".json", "_enriched.json")
-
     with open(metadata_all_enriched_file, "w") as f:
         json.dump(metadata_all, f, indent=2)
 
