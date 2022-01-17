@@ -1,0 +1,129 @@
+{
+  "name": "ARBLONN_ARB_HELDELTID",
+  "populationDescription": "Variabelen omfatter alle arbeidsforhold",
+  "temporality": "STATUS",
+  "temporalCoverage": {
+    "start": 16451,
+    "stop": 18824
+  },
+  "identifierVariables": [
+    {
+      "name": "JOBBID_1",
+      "label": "Jobbidentifikator",
+      "representedVariables": [
+        {
+          "description": "Identifikator for jobb",
+          "validPeriod": {
+            "start": 16451,
+            "stop": 18824
+          },
+          "valueDomain": {
+            "description": "N/A",
+            "unitOfMeasure": "N/A"
+          }
+        }
+      ],
+      "dataType": "Long",
+      "variableRole": "Identifier",
+      "keyType": {
+        "name": "JOBB",
+        "label": "Jobb",
+        "description": "En jobb er betegnelse for en persons arbeidsforhold i en virksomhet. En person kan ha flere arbeidsforhold, også innenfor en periode."
+      },
+      "format": "RandomUInt48"
+    }
+  ],
+  "measureVariable": {
+    "name": "ARBLONN_ARB_HELDELTID",
+    "label": "Avtalt heltid eller deltid",
+    "representedVariables": [
+      {
+        "description": "Variabelen viser om arbeidsforholdet",
+        "validPeriod": {
+          "start": 16436
+        },
+        "valueDomain": {
+          "codeList": [
+            {
+              "category": "Ingen arbeidsforhold",
+              "code": "0"
+            },
+            {
+              "category": "Hovedarbeidsforhold",
+              "code": "1"
+            },
+            {
+              "category": "Biarbeidsforhold",
+              "code": "2"
+            },
+            {
+              "category": "Heltidsansatt",
+              "code": "1"
+            },
+            {
+              "category": "Deltidsansatt",
+              "code": "2"
+            }
+          ],
+          "missingValues": []
+        }
+      }
+    ],
+    "dataType": "String",
+    "variableRole": "Measure"
+  },
+  "subjectFields": [
+    "A-ordningen",
+    "Lønn",
+    "Arbeid og lønn",
+    "Sysselsetting",
+    "Arbeidsmarked"
+  ],
+  "languageCode": "no",
+  "attributeVariables": [
+    {
+      "name": "START",
+      "label": "Startdato",
+      "representedVariables": [
+        {
+          "description": "Startdato/måletidspunktet for hendelsen",
+          "validPeriod": {
+            "start": 16451,
+            "stop": 18824
+          },
+          "valueDomain": {
+            "description": "N/A",
+            "unitOfMeasure": "N/A"
+          }
+        }
+      ],
+      "dataType": "Instant",
+      "variableRole": "Start"
+    },
+    {
+      "name": "STOP",
+      "label": "Stoppdato",
+      "representedVariables": [
+        {
+          "description": "Stoppdato/sluttdato for hendelsen",
+          "validPeriod": {
+            "start": 16451,
+            "stop": 18824
+          },
+          "valueDomain": {
+            "description": "N/A",
+            "unitOfMeasure": "N/A"
+          }
+        }
+      ],
+      "dataType": "Instant",
+      "variableRole": "Stop"
+    }
+  ],
+  "temporalStatusDates": [
+    18368,
+    16571,
+    17455,
+    18155
+  ]
+}
