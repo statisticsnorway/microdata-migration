@@ -1,6 +1,6 @@
 import json
 import shutil
-from migration.metadata import append_metadata_all
+from migration_tools.migration.metadata import append_metadata_all
 
 
 def setup_function():
@@ -23,10 +23,10 @@ def test_append_metadata_all():
     metadata_all_file = "tests/resources/append_metadata/metadata-all.json"
     append_metadata_all.append_metadata_all(metadata_file, metadata_all_file)
     metadata_all_enriched_file = metadata_all_file.replace(".json", "_enriched.json")
+
     with open(metadata_all_enriched_file) as f:
         dataset = json.load(f)
-    for var in dataset["dataStructures"]:
-        if var["name"] != "ARBLONN_ARB_HELDELTID":
-            found = True
-            break
-    assert found
+    dataset_names = [
+        data_structure["name"] for data_structure in dataset["dataStructures"]
+    ]
+    assert "ARBLONN_ARB_HELDELTID" in dataset_names

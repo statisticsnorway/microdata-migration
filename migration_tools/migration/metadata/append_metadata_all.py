@@ -9,11 +9,15 @@ def append_metadata_all(metadata_file: str, metadata_all_file: str):
     with open(metadata_all_file) as f:
         metadata_all = json.load(f)
 
-    metadata_all["dataStructures"].append(dataset)
+    if isinstance(dataset, list):
+        metadata_all["dataStructures"].append(dataset[0])
+    else:
+        metadata_all["dataStructures"].append(dataset)
 
     metadata_all_enriched_file = metadata_all_file.replace(".json", "_enriched.json")
     with open(metadata_all_enriched_file, "w") as f:
         json.dump(metadata_all, f, indent=2)
+    print (f'New metadata-all file: {metadata_all_enriched_file}')
 
 
 def get_user_input(argv):
@@ -28,7 +32,7 @@ def get_user_input(argv):
             sys.exit()
     except getopt.GetoptError:
         print(
-            'append_metadata_all.py -v <metadata.json> -m <metadata-all.json>'            
+            'append_metadata_all.py -v <metadata.json> -m <metadata-all.json>'
         )
         sys.exit(2)
     for opt, value in opts:
@@ -47,7 +51,7 @@ def get_user_input(argv):
 
 def main(argv):
     metadata_file, metadata_all_file = get_user_input(argv)
-    print(f'{metadata_file} - {metadata_all_file}')
+    append_metadata_all(metadata_file, metadata_all_file)
 
 
 if __name__ == "__main__":
