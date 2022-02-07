@@ -1,6 +1,8 @@
 import requests
 import json
 
+# Creates a metadata_all file for each datastore version, either from qa or prod env.
+
 # ------------- runtime parameters --------------
 get_from_prod = True
 output_dir = "/Users/vak/temp/metadata-all-prod"
