@@ -5,6 +5,7 @@ import datetime
 # Creates a datastore_versions.json from the response of
 # http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
 
+
 def __to_seconds_since_epoch(releaseTime: str):
     dt = datetime.datetime.strptime(releaseTime, '%Y-%m-%d %H:%M:%S')
     return round(dt.timestamp())
@@ -58,6 +59,7 @@ def main(argv):
     input_file = "/Users/vak/temp/datastoreVersions-prod.json"
     output_file = "/Users/vak/temp/datastore_versions.json"
     create_datastore_versions(input_file, output_file)
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
