@@ -7,7 +7,7 @@ import json
     ----------
     Parameters are hardcoded in main:
     datastore_versions_file : str
-        A file with the respons of http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
+        A file with the response of http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
     table_names_file : str
         A file created by script on db-qa1 /home/vak/sql/create_all_tables.sql 
         (uncertain, citrix is down right now, will check it out)

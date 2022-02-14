@@ -2,8 +2,20 @@ import sys
 import json
 import datetime
 
-# Creates a datastore_versions.json from the response of
-# http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
+"""Creates a datastore_versions.json
+
+    Parameters
+    ----------
+    Parameters are hardcoded in main:
+    input_file : str
+        A file with the response of http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
+    output_file : str
+        The file to be created
+
+    Returns
+    -------
+    Nothing for now
+    """
 
 
 def __to_seconds_since_epoch(releaseTime: str):

@@ -1,7 +1,20 @@
 import requests
 import json
 
-# Creates a metadata_all file for each datastore version, either from qa or prod env.
+
+"""Creates a metadata_all file for each datastore version, either from qa or prod env.
+
+    Parameters
+    ----------
+    get_from_prod : Boolean
+        Where to get the files from. True for production, False for qa.
+    output_dir : str
+        The output directory.
+
+    Returns
+    -------
+    Nothing for now
+    """
 
 # ------------- runtime parameters --------------
 get_from_prod = True
