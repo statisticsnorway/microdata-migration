@@ -18,7 +18,7 @@ import json
 
 # ------------- runtime parameters --------------
 get_from_prod = True
-output_dir = "/Users/vak/temp/metadata-all-prod/daniel"
+output_dir = "/Users/vak/temp/metadata-all-prod"
 # ------------- runtime parameters --------------
 
 if get_from_prod:

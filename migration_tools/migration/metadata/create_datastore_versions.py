@@ -54,13 +54,10 @@ def create_datastore_versions(input_file: str, output_file: str):
     for from_version in versions_15:
         list_of_versions.append(__transform_version(from_version))
 
-    head = '{' \
-           '"name": "no.ssb.fdb",' \
-           '"label": "Data fra SSB",' \
-           '"description": "Registerdata som inngår i SSBs statistikkproduksjon"' \
-           '}'
-    datastore_versions = json.loads(head)
-    datastore_versions["versions"] = list_of_versions
+    datastore_versions = {"name": "no.ssb.fdb",
+                          "label": "Data fra SSB",
+                          "description": "Registerdata som inngår i SSBs statistikkproduksjon",
+                          "versions": list_of_versions}
 
     with open(output_file, "w") as f:
         json.dump(datastore_versions, f, indent=2)
