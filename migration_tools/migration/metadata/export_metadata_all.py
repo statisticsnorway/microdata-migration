@@ -18,7 +18,7 @@ import json
 
 # ------------- runtime parameters --------------
 get_from_prod = True
-output_dir = "/Users/vak/temp/metadata-all-prod"
+output_dir = "/Users/vak/temp/metadata-all-prod/daniel"
 # ------------- runtime parameters --------------
 
 if get_from_prod:
@@ -30,17 +30,18 @@ else:
 
 data_store_dict = requests.get(data_store_url).json()
 
-for dic in data_store_dict["versions"]:
-    for key in dic:
-        version_value = dic[key]
-        if key == "version" and not version_value.startswith('0.0.0'):
-            metadata_all_url = metadata_all_str.replace("<placeholder>", version_value)
-            print (metadata_all_url)
-            metadata_all_dict = requests.get(metadata_all_url).json()
+released_versions = [
+    dic["version"] for dic in data_store_dict["versions"]
+    if not dic["version"].startswith('0.0.0')
+]
 
-            json_file = f"{output_dir}/metadata_all__{version_value}.json"
-            print(json_file)
-            j = json.dumps(metadata_all_dict, indent=4)
-            f = open(json_file, 'w')
-            print(j, file=f)
-            f.close()
+for version in released_versions:
+    metadata_all_url = metadata_all_str.replace("<placeholder>", version)
+    print(metadata_all_url)
+    metadata_all_dict = requests.get(metadata_all_url).json()
+
+    json_file_path = f"{output_dir}/metadata_all__{version}.json"
+    print(json_file_path)
+
+    with open(json_file_path, 'w') as f:
+        json.dump(metadata_all_dict, f, indent=2)
