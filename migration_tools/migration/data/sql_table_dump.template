@@ -1,0 +1,8 @@
+SELECT
+    unit_id, value, IFNULL(start, ''), IFNULL(stop, '')
+FROM
+    <PLACEHOLDER> INTO OUTFILE '<PLACEHOLDER>.csv'
+    FIELDS
+    TERMINATED BY ';'
+    ESCAPED BY '"' LINES
+    TERMINATED BY '\r\n';
