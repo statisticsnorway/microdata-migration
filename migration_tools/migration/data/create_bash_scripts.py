@@ -19,7 +19,7 @@ import tarfile
 
 # ------------- runtime parameters --------------
 tables_file = "/Users/vak/temp/raird_all_tables.txt"
-number_of_tables_in_bash_script = 10
+number_of_tables_in_bash_script = 100
 output_dir = "/Users/vak/temp/sql_dump_files"
 # ------------- runtime parameters --------------
 
@@ -48,22 +48,25 @@ for root, dirs, files in os.walk(output_dir):
     for filename in files:
         if not filename.startswith("dump"):
             continue
-        transformed_script = map(lambda line: line.replace('<PLACEHOLDER>', filename), script_template)
-        sh_script.extend(list(transformed_script))
+        transformed_template = map(lambda line: line.replace('<SQL_SCRIPT>', filename), script_template)
+        sh_script.extend(list(transformed_template))
         i += 1
         if i != number_of_tables_in_bash_script:
             continue
         i = 0
         script_number += 1
         file_path = f'{output_dir}/dump_tables_{script_number}.sh'
+        transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'dump_tables_{script_number}.log'), sh_script)
         with open(file_path, mode='wt', encoding='utf-8') as myfile:
-            myfile.write('\n'.join(sh_script))
+            myfile.write('\n'.join(list(transformed_script)))
         sh_script = []
 
 if len(sh_script) > 0:
-    file_path = f'{output_dir}/dump_tables_{script_number + 1}.sh'
+    script_number += 1
+    file_path = f'{output_dir}/dump_tables_{script_number}.sh'
+    transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'dump_tables_{script_number}.log'), sh_script)
     with open(file_path, mode='wt', encoding='utf-8') as myfile:
-        myfile.write('\n'.join(sh_script))
+        myfile.write('\n'.join(list(transformed_script)))
 
 # 3. Creates tar files
 os.chdir(output_dir)
