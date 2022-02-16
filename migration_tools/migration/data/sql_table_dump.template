@@ -1,3 +1,4 @@
+SELECT COUNT(*) FROM <PLACEHOLDER>;
 SELECT
     unit_id, value, IFNULL(start, ''), IFNULL(stop, '')
 FROM
@@ -5,4 +6,4 @@ FROM
     FIELDS
     TERMINATED BY ';'
     ESCAPED BY '"' LINES
-    TERMINATED BY '\r\n';
+    TERMINATED BY '\n';
