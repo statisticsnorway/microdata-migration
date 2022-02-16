@@ -1,3 +1,4 @@
+# <PLACEHOLDER>
 echo "Start <PLACEHOLDER> at `date`"
 scl enable rh-mariadb101 -- mysql -u "<user>" -h localhost <database> --password=<password> < <PLACEHOLDER>
 echo "End <PLACEHOLDER> at `date`"

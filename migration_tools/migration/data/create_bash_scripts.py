@@ -1,6 +1,7 @@
 import os
+import tarfile
 
-"""Creates sql and bash scripts from a list of tables.
+"""Creates sql and bash scripts from a list of tables. Packs scripts into tar files.
 
     Parameters
     ----------
@@ -22,6 +23,7 @@ number_of_tables_in_bash_script = 10
 output_dir = "/Users/vak/temp/sql_dump_files"
 # ------------- runtime parameters --------------
 
+# 1. Creates sql files
 with open(tables_file) as f:
     table_list = f.read().splitlines()
 
@@ -34,7 +36,7 @@ for table_name in table_list:
     with open(file_path, mode='wt', encoding='utf-8') as sqlfile:
         sqlfile.write('\n'.join(list(transformed_table_dump)))
 
-
+# 2. Creates sh files
 with open("sh_script.template") as f:
     script_template = f.read().splitlines()
 
@@ -62,3 +64,20 @@ if len(sh_script) > 0:
     file_path = f'{output_dir}/dump_tables_{script_number + 1}.sh'
     with open(file_path, mode='wt', encoding='utf-8') as myfile:
         myfile.write('\n'.join(sh_script))
+
+# 3. Creates tar files
+os.chdir(output_dir)
+script_counter = 0
+for file in os.listdir('.'):
+    if file.endswith(".sh"):
+        script_counter += 1
+        tar_file = tarfile.open(f'sh_script_{script_counter}.tar', "w")
+        tar_file.add(file)
+        sh_file = open(file, 'r')
+        lines = sh_file.readlines()
+
+        for line in lines:
+            if line.startswith('#'):
+                sql_file = f'{line.split("# ")[1].strip()}'
+                tar_file.add(sql_file)
+        tar_file.close()
