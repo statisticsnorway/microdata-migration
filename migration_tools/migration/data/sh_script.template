@@ -1,6 +1,5 @@
 # <SQL_SCRIPT>
-log_file=<LOG_FILE>
-echo "Start <SQL_SCRIPT> at `date`"  >> log_file
-scl enable rh-mariadb101 -- mysql -u "<user>" -h localhost <database> --password=<password> < <SQL_SCRIPT> >> log_file
-echo "End <SQL_SCRIPT> at `date`" >> log_file
-echo "" >> log_file
+echo "Start <SQL_SCRIPT> at `date`"  >> <LOG_FILE>
+scl enable rh-mariadb101 -- mysql -u "<user>" -h localhost <database> --password=<password> < <SQL_SCRIPT> >> <LOG_FILE>
+echo "End <SQL_SCRIPT> at `date`" >> <LOG_FILE>
+echo "" >> <LOG_FILE>
