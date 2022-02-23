@@ -1,1 +1,1 @@
-sudo docker-compose run convert-csv -t <TEMPORALITY> -d <DATATYPE> -f <CSV_FILE_NAME>
+docker-compose run convert-csv -t <TEMPORALITY> -d <DATATYPE> -f <CSV_FILE_NAME>
