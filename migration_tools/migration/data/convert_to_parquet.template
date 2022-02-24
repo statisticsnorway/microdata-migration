@@ -1,1 +1,4 @@
+#
 docker-compose run convert-csv -t <TEMPORALITY> -d <DATATYPE> -f <CSV_FILE_NAME>
+rm <WORKSPACE>/<ENHANCED_CSV_FILE_NAME>
+rm <WORKSPACE>/<CSV_FILE_NAME>

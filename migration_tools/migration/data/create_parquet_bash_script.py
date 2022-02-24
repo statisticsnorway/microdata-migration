@@ -12,6 +12,10 @@ import json
         Directory with json files needed for conversion to parquet.
     bash_file_dir : str
         Directory to place the generated bash script.
+    workspace : str
+        The directory where converting til parquet takes place.
+        We need it here to make sure unneeded files are deleted after conversion
+        (csv and enhanced csv)    
         
     Returns
     -------
@@ -22,6 +26,9 @@ import json
 csv_files_dir = "/Users/vak/projects/github/M.2.0/microdata-migration/migration_tools/tests/resources/parquet/csv"
 metadata_all_files_dir = "/Users/vak/projects/github/M.2.0/microdata-migration/migration_tools/tests/resources/parquet/metadata"
 bash_file_dir = "/Users/vak/projects/github/M.2.0/microdata-migration/migration_tools/tests/resources/parquet/bash"
+workspace = "/microdata/migration/data/workspace"
+
+
 # ------------- runtime parameters --------------
 
 
@@ -36,6 +43,10 @@ def is_patch_version(metadata_all_file: str):
     if split_base[1].split(".")[2] != "0" or split_base[1].split(".")[3] != "0":
         return True
     return False
+
+
+def to_enhanced(csv_file_name: str):
+    return f'{csv_file_name.split(".")[0]}_enhanced.csv'
 
 
 # 1. Reads temporality and data type for all datasets from all versions into dictionary in memory
@@ -63,9 +74,9 @@ for root, dirs, files in os.walk(metadata_all_files_dir):
 print('Metadata dict loaded in memory ...')
 
 with open("convert_to_parquet.template") as f:
-    convert_to_parquet_template = f.read()
+    convert_to_parquet_template = f.read().splitlines()
 
-# Checks metadata dictionary for each csv file and writes the command to bash script
+# 2. Checks metadata dictionary for each csv file and writes the command to bash script
 cmd_list = []
 for root, dirs, files in os.walk(csv_files_dir):
     csv_file_name: str
@@ -75,11 +86,13 @@ for root, dirs, files in os.walk(csv_files_dir):
             metadata = all_datasets_in_all_versions[dataset_name_and_version]
             temporality = metadata['temporality']
             data_type = metadata['data_type']
-            convert_cmd = convert_to_parquet_template.replace('<TEMPORALITY>', temporality) \
-                .replace('<DATATYPE>', data_type) \
-                .replace('<CSV_FILE_NAME>', csv_file_name)
-            cmd_list.append('#')
-            cmd_list.append(convert_cmd)
+            convert_commands = map(lambda line: line.replace('<TEMPORALITY>', temporality)
+                                   .replace('<DATATYPE>', data_type)
+                                   .replace('<CSV_FILE_NAME>', csv_file_name)
+                                   .replace('<ENHANCED_CSV_FILE_NAME>', to_enhanced(csv_file_name))
+                                   .replace('<WORKSPACE>', workspace),
+                                   convert_to_parquet_template)
+            cmd_list.extend(list(convert_commands))
             continue
         print(f'{dataset_name_and_version} not found in any of metadata_all files')
 
