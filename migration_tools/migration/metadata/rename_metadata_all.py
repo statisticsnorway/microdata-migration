@@ -15,12 +15,13 @@ def main():
 
     folder = "/Users/vak/temp/metadata-all-prod"
     for count, filename in enumerate(os.listdir(folder)):
-        version = filename.removeprefix("metadata_all__").removesuffix(".json")
-        src =f"{folder}/{filename}"
-        dst =f"{folder}/{'metadata_all__'}{to_underscored_version(version)}.json"
-        print (src)
-        print (dst)
-        os.rename(src, dst)
+        if filename.startswith("metadata_all__"):
+            version = filename.removeprefix("metadata_all__").removesuffix(".json")
+            src =f"{folder}/{filename}"
+            dst =f"{folder}/{'metadata_all__'}{to_underscored_version(version)}.json"
+            print (src)
+            print (dst)
+            os.rename(src, dst)
 
 
 if __name__ == '__main__':
