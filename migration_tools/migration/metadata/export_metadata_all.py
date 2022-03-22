@@ -1,7 +1,6 @@
 import requests
 import json
 
-
 """Creates a metadata_all file for each datastore version, either from qa or prod env.
 
     Parameters
@@ -35,12 +34,20 @@ released_versions = [
     if not dic["version"].startswith('0.0.0')
 ]
 
+
+def to_underscored_version(version: str) -> str:
+    if version.count('.') > 2:
+        version = '.'.join(version.split('.')[:-1])
+    version = version.replace('.', '_')
+    return version
+
+
 for version in released_versions:
     metadata_all_url = metadata_all_str.replace("<placeholder>", version)
     print(metadata_all_url)
     metadata_all_dict = requests.get(metadata_all_url).json()
 
-    json_file_path = f"{output_dir}/metadata_all__{version}.json"
+    json_file_path = f"{output_dir}/metadata_all__{to_underscored_version(version)}.json"
     print(json_file_path)
 
     with open(json_file_path, 'w') as f:
