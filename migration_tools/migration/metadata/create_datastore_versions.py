@@ -54,9 +54,9 @@ def create_datastore_versions(input_file: str, output_file: str):
     for from_version in versions_15:
         list_of_versions.append(__transform_version(from_version))
 
-    datastore_versions = {"name": "no.ssb.fdb",
-                          "label": "Data fra SSB",
-                          "description": "Registerdata som inngår i SSBs statistikkproduksjon",
+    datastore_versions = {"name": "no.ssb.fdb.m2",
+                          "label": "Migrert no.ssb.fdb",
+                          "description": "Migrert datastore fra microdata 1.5 opp til v. 14",
                           "versions": list_of_versions}
 
     with open(output_file, "w") as f:
@@ -65,8 +65,8 @@ def create_datastore_versions(input_file: str, output_file: str):
 
 
 def main(argv):
-    input_file = "/Users/vak/temp/datastoreVersions-prod.json"
-    output_file = "/Users/vak/temp/datastore_versions.json"
+    input_file = "/Users/vak/temp/dataStoreVersions_14_0_0_fra_prod_pp.json"
+    output_file = "/Users/vak/temp/datastore_versions_14_0_0_M2.json"
     create_datastore_versions(input_file, output_file)
 
 
