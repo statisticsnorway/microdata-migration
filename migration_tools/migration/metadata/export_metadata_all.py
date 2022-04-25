@@ -17,7 +17,7 @@ import json
 
 # ------------- runtime parameters --------------
 get_from_prod = True
-output_dir = "/Users/vak/temp/metadata-all-prod"
+output_dir = "/Users/vak/temp/metadata-all-prod-2"
 # ------------- runtime parameters --------------
 
 if get_from_prod:
@@ -29,6 +29,7 @@ else:
 
 data_store_dict = requests.get(data_store_url).json()
 
+
 released_versions = [
     dic["version"] for dic in data_store_dict["versions"]
     if not dic["version"].startswith('0.0.0')
@@ -39,13 +40,17 @@ def to_underscored_version(version: str) -> str:
     if version.count('.') > 2:
         version = '.'.join(version.split('.')[:-1])
     version = version.replace('.', '_')
-    return version
+    return f'{version}_0'
 
 
 for version in released_versions:
     metadata_all_url = metadata_all_str.replace("<placeholder>", version)
     print(metadata_all_url)
     metadata_all_dict = requests.get(metadata_all_url).json()
+
+    metadata_all_dict["dataStore"]["name"] = "no.ssb.fdb.m2"
+    metadata_all_dict["dataStore"]["label"] = "Migrert no.ssb.fdb"
+    metadata_all_dict["dataStore"]["description"] = "Migrert datastore fra microdata 1.5 opp til v. 14"
 
     json_file_path = f"{output_dir}/metadata_all__{to_underscored_version(version)}.json"
     print(json_file_path)
