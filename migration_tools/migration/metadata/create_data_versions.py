@@ -9,8 +9,7 @@ import json
     datastore_versions_file : str
         A file with the response of http://{{fdbmetadata}}/v.0.2/catalogs/RAIRD/dataStoreVersions
     table_names_file : str
-        A file created by script on db-qa1 /home/vak/sql/create_all_tables.sql 
-        (uncertain, citrix is down right now, will check it out)
+        A file created by /home/vak/sql/dump_all_table_names.sql on sl-raird-db-p1 
     output_dir : The directory where files are created   
 
     Returns
@@ -34,7 +33,7 @@ def create_data_versions(datastore_versions_file: str, table_names_file: str, ou
 
     for datastore_version in datastore_versions:
         version = datastore_version["version"]
-        filename = f'{output_dir}/data_versions__{version.replace(".", "_")}.json'
+        filename = f'{output_dir}/data_versions__{version.replace(".", "_")}_0.json'
 
         datastore_version_major = int(version.split(".")[0])
         datastore_version_minor = int(version.split(".")[1])
