@@ -36,7 +36,7 @@ def __transform_version(from_version):
         datastructure_updates.append(datastructure)
 
     transformed_version = {
-        "version": from_version["version"],
+        "version": f'{from_version["version"]}.0',
         "description": from_version["description"],
         "releaseTime": __to_seconds_since_epoch(from_version["releaseTime"]),
         "languageCode": "no",
@@ -66,7 +66,7 @@ def create_datastore_versions(input_file: str, output_file: str):
 
 def main(argv):
     input_file = "/Users/vak/temp/dataStoreVersions_14_0_0_fra_prod_pp.json"
-    output_file = "/Users/vak/temp/datastore_versions_14_0_0_M2.json"
+    output_file = "/Users/vak/temp/datastore_versions_14_0_0_0_M2.json"
     create_datastore_versions(input_file, output_file)
 
 
