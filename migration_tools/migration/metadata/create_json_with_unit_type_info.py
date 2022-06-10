@@ -85,5 +85,29 @@ for dataset in table_list:
              "format": measure_format}
         ]
 
+# Now that result_dict is ready we perform a sanity check to reveal variables
+# with more than one unit type across versions.
+
+for key, value in result_dict.items():
+    dataset_name = key
+    dataset_versions = value
+
+    temp_list = []
+    for dataset_version in dataset_versions:
+        temp_list.append(dataset_version["identifier"])
+    to_set = set(temp_list)
+    if len(to_set) > 1:
+        print(f'{dataset_name} versions have multiple unit types in identifier: {to_set}')
+
+    temp_list = []
+    for dataset_version in dataset_versions:
+        temp_list.append(dataset_version["measure"])
+    to_set = set(temp_list)
+    if len(to_set) > 1:
+        print(f'{dataset_name} versions have multiple unit types in measure: {to_set}')
+
+# Print the dict
 with open(output_file, "w") as f:
     json.dump(result_dict, f, indent=2)
+
+print("Done!")
