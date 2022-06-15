@@ -9,7 +9,7 @@ raird_all_tables_unit_type_info.json er laget av create_json_with_unit_type_info
 raird_all_tables_unit_type_info_modified.json er kopi av raird_all_tables_unit_type_info.json
 Denne ble manuelt modifisert, etter diskusjoner og avtale med Johan, s380, slik:
 
-Disse har ikke pseudonymer:
+Disse har ikke pseudonymer i measure:
 
   "KJORETOY_DRIVSTOFF_OMK": [
     {
@@ -52,7 +52,7 @@ Disse har ikke pseudonymer:
     }
   ],
 
-measure.unitype må være PERSON
+measure.unitype må være PERSON:
 
     "KJORETOY_KJORETOYID_FNR": [
       {
