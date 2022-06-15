@@ -1,0 +1,6282 @@
+{
+  "AFPO1992FDT_MOTTAK": [
+    {
+      "dataset": "AFPO1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "AFPO2011FDT_GRAD": [
+    {
+      "dataset": "AFPO2011FDT_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPO2011FDT_GRAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPO2011FDT_GRAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "AFPO2011FDT_MOTTAK": [
+    {
+      "dataset": "AFPO2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPO2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPO2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "AFPP1992FDT_MOTTAK": [
+    {
+      "dataset": "AFPP1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "AFPP2011FDT_GRAD": [
+    {
+      "dataset": "AFPP2011FDT_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPP2011FDT_GRAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPP2011FDT_GRAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "AFPP2011FDT_MOTTAK": [
+    {
+      "dataset": "AFPP2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPP2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "AFPP2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ALDPENSJ1992FDT_MOTTAK": [
+    {
+      "dataset": "ALDPENSJ1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ALDPENSJ2011FDT_GRAD": [
+    {
+      "dataset": "ALDPENSJ2011FDT_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ALDPENSJ2011FDT_GRAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ALDPENSJ2011FDT_GRAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ALDPENSJ2011FDT_MOTTAK": [
+    {
+      "dataset": "ALDPENSJ2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ALDPENSJ2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ALDPENSJ2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBAVKLARPFDT_MOTTAK": [
+    {
+      "dataset": "ARBAVKLARPFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ARBAVKLARPFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ARBAVKLARPFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBEIDSFORHOLD_PERSON": [
+    {
+      "dataset": "ARBEIDSFORHOLD_PERSON__12_1",
+      "identifier": "JOBB",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    }
+  ],
+  "ARBLONN_ARB_ARBEIDSTID": [
+    {
+      "dataset": "ARBLONN_ARB_ARBEIDSTID__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_ARBKOMM": [
+    {
+      "dataset": "ARBLONN_ARB_ARBKOMM__13_0",
+      "identifier": "JOBB",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_ARBMARK_STATUS": [
+    {
+      "dataset": "ARBLONN_ARB_ARBMARK_STATUS__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_H3LDELTID": [
+    {
+      "dataset": "ARBLONN_ARB_H3LDELTID__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_HELDELTID": [
+    {
+      "dataset": "ARBLONN_ARB_HELDELTID__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_HOVEDARBEID": [
+    {
+      "dataset": "ARBLONN_ARB_HOVEDARBEID__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_KILDE": [
+    {
+      "dataset": "ARBLONN_ARB_KILDE__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_SLUTT": [
+    {
+      "dataset": "ARBLONN_ARB_SLUTT__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": "YYYY-MM-DD"
+    }
+  ],
+  "ARBLONN_ARB_START": [
+    {
+      "dataset": "ARBLONN_ARB_START__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": "YYYY-MM-DD"
+    }
+  ],
+  "ARBLONN_ARB_STILLINGSPST_INNRAPP": [
+    {
+      "dataset": "ARBLONN_ARB_STILLINGSPST_INNRAPP__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_STILLINGSPST_KILDE": [
+    {
+      "dataset": "ARBLONN_ARB_STILLINGSPST_KILDE__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_STILLINGSPST": [
+    {
+      "dataset": "ARBLONN_ARB_STILLINGSPST__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_SYSS": [
+    {
+      "dataset": "ARBLONN_ARB_SYSS__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_TID_ORDNING": [
+    {
+      "dataset": "ARBLONN_ARB_TID_ORDNING__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_TIMEANT_FULLTID_INNRAPP": [
+    {
+      "dataset": "ARBLONN_ARB_TIMEANT_FULLTID_INNRAPP__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_TIMEANT_FULLTID": [
+    {
+      "dataset": "ARBLONN_ARB_TIMEANT_FULLTID__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_TYPE": [
+    {
+      "dataset": "ARBLONN_ARB_TYPE__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_ARB_YRKE_STYRK08": [
+    {
+      "dataset": "ARBLONN_ARB_YRKE_STYRK08__12_1",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_ANNEN_BET": [
+    {
+      "dataset": "ARBLONN_LONN_ANNEN_BET__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_BONUS": [
+    {
+      "dataset": "ARBLONN_LONN_BONUS__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_EKV_BONUS": [
+    {
+      "dataset": "ARBLONN_LONN_EKV_BONUS__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_EKV_FMLONN": [
+    {
+      "dataset": "ARBLONN_LONN_EKV_FMLONN__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_EKV_IALT": [
+    {
+      "dataset": "ARBLONN_LONN_EKV_IALT__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_EKV_UREGTIL": [
+    {
+      "dataset": "ARBLONN_LONN_EKV_UREGTIL__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_EKV_VEKT": [
+    {
+      "dataset": "ARBLONN_LONN_EKV_VEKT__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FAST_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_FAST_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FAST_TILLEGG_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_FAST_TILLEGG_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FAST_TILLEGG": [
+    {
+      "dataset": "ARBLONN_LONN_FAST_TILLEGG__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FAST": [
+    {
+      "dataset": "ARBLONN_LONN_FAST__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FERIE_TREKK": [
+    {
+      "dataset": "ARBLONN_LONN_FERIE_TREKK__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_FERIE": [
+    {
+      "dataset": "ARBLONN_LONN_FERIE__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_GODTGJORELSE": [
+    {
+      "dataset": "ARBLONN_LONN_GODTGJORELSE__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_HELLIGDAGSTILLEGG": [
+    {
+      "dataset": "ARBLONN_LONN_HELLIGDAGSTILLEGG__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_IMP_STATUS": [
+    {
+      "dataset": "ARBLONN_LONN_IMP_STATUS__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_KONTANT_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_KONTANT_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_KONTANT": [
+    {
+      "dataset": "ARBLONN_LONN_KONTANT__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_NATURAL": [
+    {
+      "dataset": "ARBLONN_LONN_NATURAL__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_OVERTID_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_OVERTID_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_OVERTID_TIMER": [
+    {
+      "dataset": "ARBLONN_LONN_OVERTID_TIMER__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_OVERTID": [
+    {
+      "dataset": "ARBLONN_LONN_OVERTID__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_SLUTTVEDERLAG": [
+    {
+      "dataset": "ARBLONN_LONN_SLUTTVEDERLAG__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_TIME_ANTALL_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_TIME_ANTALL_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_TIME_ANTALL": [
+    {
+      "dataset": "ARBLONN_LONN_TIME_ANTALL__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_TIME_INNRAPP": [
+    {
+      "dataset": "ARBLONN_LONN_TIME_INNRAPP__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_TIME": [
+    {
+      "dataset": "ARBLONN_LONN_TIME__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_UREGTIL_ARBEIDET": [
+    {
+      "dataset": "ARBLONN_LONN_UREGTIL_ARBEIDET__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_LONN_UREGTIL_UARBEIDET": [
+    {
+      "dataset": "ARBLONN_LONN_UREGTIL_UARBEIDET__14_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_ALDER": [
+    {
+      "dataset": "ARBLONN_PERS_ALDER__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_BOSETT_STATUS": [
+    {
+      "dataset": "ARBLONN_PERS_BOSETT_STATUS__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_BOTID_FORST": [
+    {
+      "dataset": "ARBLONN_PERS_BOTID_FORST__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_BOTID_SISTE": [
+    {
+      "dataset": "ARBLONN_PERS_BOTID_SISTE__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_DNR": [
+    {
+      "dataset": "ARBLONN_PERS_DNR__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_KJOENN": [
+    {
+      "dataset": "ARBLONN_PERS_KJOENN__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_KOMMNR_KILDE": [
+    {
+      "dataset": "ARBLONN_PERS_KOMMNR_KILDE__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_KOMMNR": [
+    {
+      "dataset": "ARBLONN_PERS_KOMMNR__12_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_SUM_ARBEIDSTID": [
+    {
+      "dataset": "ARBLONN_PERS_SUM_ARBEIDSTID__12_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBLONN_PERS_SUM_STILLINGSPST": [
+    {
+      "dataset": "ARBLONN_PERS_SUM_STILLINGSPST__12_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBSOEK1992FDT_STONAD": [
+    {
+      "dataset": "ARBSOEK1992FDT_STONAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBSOEK1992FDT_TILTAK3": [
+    {
+      "dataset": "ARBSOEK1992FDT_TILTAK3__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBSOEK1992FDT_TILTAK5": [
+    {
+      "dataset": "ARBSOEK1992FDT_TILTAK5__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ARBSOEK2001FDT_HOVED": [
+    {
+      "dataset": "ARBSOEK2001FDT_HOVED__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ARBSOEK2001FDT_HOVED__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ARBSOEK2001FDT_HOVED__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNETRMOTFDT_ANTBARN": [
+    {
+      "dataset": "BARNETRMOTFDT_ANTBARN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_ANTBARN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_ANTBARN__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNETRMOTFDT_BELOP": [
+    {
+      "dataset": "BARNETRMOTFDT_BELOP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_BELOP__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_BELOP__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNETRMOTFDT_MOTTAK": [
+    {
+      "dataset": "BARNETRMOTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNETRMOTFDT_STATUSK": [
+    {
+      "dataset": "BARNETRMOTFDT_STATUSK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_STATUSK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNETRMOTFDT_STATUSK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNEVERN_FODTAAR": [
+    {
+      "dataset": "BARNEVERN_FODTAAR__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "BARNEVERN_FODTAAR__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "BARNEVERN_FODTAAR__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    }
+  ],
+  "BARNEVERN_HJELPETIL12": [
+    {
+      "dataset": "BARNEVERN_HJELPETIL12__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_HJELPETIL12__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_HJELPETIL12__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNEVERN_HJELPETIL": [
+    {
+      "dataset": "BARNEVERN_HJELPETIL__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_HJELPETIL__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_HJELPETIL__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNEVERN_KOMM": [
+    {
+      "dataset": "BARNEVERN_KOMM__11_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_KOMM__4_1",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_KOMM__5_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "BARNEVERN_OMSORG12": [
+    {
+      "dataset": "BARNEVERN_OMSORG12__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_OMSORG12__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_OMSORG12__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BARNEVERN_OMSORG": [
+    {
+      "dataset": "BARNEVERN_OMSORG__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_OMSORG__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BARNEVERN_OMSORG__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_ANTPERS_I_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_ANTPERS_I_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANTPERS_I_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANTPERS_I_REGSTAT_FAMNR__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_ANTREGSTAT_FAMNR_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_ANTREGSTAT_FAMNR_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANTREGSTAT_FAMNR_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANTREGSTAT_FAMNR_I_HUSHNR__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_ANT_SOSKEN": [
+    {
+      "dataset": "BEFOLKNING_ANT_SOSKEN__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANT_SOSKEN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ANT_SOSKEN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BARN3_I_FAM": [
+    {
+      "dataset": "BEFOLKNING_BARN3_I_FAM__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN3_I_FAM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN3_I_FAM__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BARN3_I_HUSH": [
+    {
+      "dataset": "BEFOLKNING_BARN3_I_HUSH__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN3_I_HUSH__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN3_I_HUSH__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BARN_I_HUSH": [
+    {
+      "dataset": "BEFOLKNING_BARN_I_HUSH__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN_I_HUSH__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN_I_HUSH__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BARN_I_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_BARN_I_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN_I_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN_I_REGSTAT_FAMNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BARN": [
+    {
+      "dataset": "BEFOLKNING_BARN__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BARN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_BYDEL": [
+    {
+      "dataset": "BEFOLKNING_BYDEL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_BYDEL__6_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_DOEDS_DATO": [
+    {
+      "dataset": "BEFOLKNING_DOEDS_DATO__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_DOEDS_DATO__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_DOEDS_DATO__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_DOEDS_DATO__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    }
+  ],
+  "BEFOLKNING_ELDST_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_ELDST_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ELDST_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ELDST_I_HUSHNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_ELDST_I_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_ELDST_I_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ELDST_I_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_ELDST_I_REGSTAT_FAMNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_FAR_FNR": [
+    {
+      "dataset": "BEFOLKNING_FAR_FNR__15_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_FAR_FNR__1_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_FAR_FNR__3_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_FAR_FNR__5_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    }
+  ],
+  "BEFOLKNING_FODELAND": [
+    {
+      "dataset": "BEFOLKNING_FODELAND__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FODELAND__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FODELAND__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FODELAND__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_FOEDEKOMMNR": [
+    {
+      "dataset": "BEFOLKNING_FOEDEKOMMNR__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDEKOMMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDEKOMMNR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDEKOMMNR__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_FOEDSELS_AAR_MND": [
+    {
+      "dataset": "BEFOLKNING_FOEDSELS_AAR_MND__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDSELS_AAR_MND__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDSELS_AAR_MND__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "BEFOLKNING_FOEDSELS_AAR_MND__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "BEFOLKNING_FORELDREKODE": [
+    {
+      "dataset": "BEFOLKNING_FORELDREKODE__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FORELDREKODE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_FORELDREKODE__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_FORSTDATO": [
+    {
+      "dataset": "BEFOLKNING_FORSTDATO__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_FORSTDATO__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_FORSTDATO__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    },
+    {
+      "dataset": "BEFOLKNING_FORSTDATO__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMMDD"
+    }
+  ],
+  "BEFOLKNING_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_HUSHNR__2_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_HUSHNR__4_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    }
+  ],
+  "BEFOLKNING_IMPUTERT": [
+    {
+      "dataset": "BEFOLKNING_IMPUTERT__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_IMPUTERT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_IMPUTERT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_INNALDER": [
+    {
+      "dataset": "BEFOLKNING_INNALDER__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INNALDER__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INNALDER__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INNALDER__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_INNGRUNN1": [
+    {
+      "dataset": "BEFOLKNING_INNGRUNN1__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INNGRUNN1__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INNGRUNN1__8_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_INVKAT": [
+    {
+      "dataset": "BEFOLKNING_INVKAT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INVKAT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INVKAT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_INVKAT__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_KJOENN": [
+    {
+      "dataset": "BEFOLKNING_KJOENN__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KJOENN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KJOENN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KJOENN__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_KOMMNR_FAKTISK": [
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FAKTISK__10_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FAKTISK__1_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FAKTISK__3_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "BEFOLKNING_KOMMNR_FORMELL": [
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FORMELL__15_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FORMELL__1_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KOMMNR_FORMELL__5_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "BEFOLKNING_KONTAKT_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_KONTAKT_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KONTAKT_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KONTAKT_HUSHNR__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_KONTAKT_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_KONTAKT_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KONTAKT_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_KONTAKT_REGSTAT_FAMNR__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_LANDBAK3GEN": [
+    {
+      "dataset": "BEFOLKNING_LANDBAK3GEN__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_LANDBAK3GEN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_LANDBAK3GEN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_LANDBAK3GEN__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_MOR_FNR": [
+    {
+      "dataset": "BEFOLKNING_MOR_FNR__15_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_MOR_FNR__1_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_MOR_FNR__3_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_MOR_FNR__5_0",
+      "identifier": "PERSON",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    }
+  ],
+  "BEFOLKNING_MRK_FNR": [
+    {
+      "dataset": "BEFOLKNING_MRK_FNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_MRK_FNR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_MRK_FNR__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_PARSTATUS": [
+    {
+      "dataset": "BEFOLKNING_PARSTATUS__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PARSTATUS__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PARSTATUS__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_PERS17MIN_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_PERS17MIN_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS17MIN_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS17MIN_I_HUSHNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_PERS18PLUS_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_PERS18PLUS_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS18PLUS_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS18PLUS_I_HUSHNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_PERS_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_PERS_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_PERS_I_HUSHNR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": "FAMILIE",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": "FAMILIE",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMNR__4_0",
+      "identifier": "PERSON",
+      "measure": "FAMILIE",
+      "format": "RandomUInt48"
+    }
+  ],
+  "BEFOLKNING_REGSTAT_FAMTYP": [
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMTYP__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMTYP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_FAMTYP__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_REGSTAT_HUSHTYP": [
+    {
+      "dataset": "BEFOLKNING_REGSTAT_HUSHTYP__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_HUSHTYP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_HUSHTYP__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_REGSTAT_PERSONKODE": [
+    {
+      "dataset": "BEFOLKNING_REGSTAT_PERSONKODE__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_PERSONKODE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_REGSTAT_PERSONKODE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_REGSTAT": [
+    {
+      "dataset": "BEFOLKNING_REGSTAT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_SOSKENKODE": [
+    {
+      "dataset": "BEFOLKNING_SOSKENKODE__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_SOSKENKODE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_SOSKENKODE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_STATUSKODE_FNR_SAMORD": [
+    {
+      "dataset": "BEFOLKNING_STATUSKODE_FNR_SAMORD__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_STATUSKODE_FNR_SAMORD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_STATUSKODE_FNR_SAMORD__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_STATUSKODE": [
+    {
+      "dataset": "BEFOLKNING_STATUSKODE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_STATUSKODE__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_TETTNR": [
+    {
+      "dataset": "BEFOLKNING_TETTNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_TETTNR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_TETTNR__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_TS_KODE": [
+    {
+      "dataset": "BEFOLKNING_TS_KODE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_TS_KODE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_TS_KODE__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_YNGST_I_HUSHNR": [
+    {
+      "dataset": "BEFOLKNING_YNGST_I_HUSHNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_YNGST_I_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_YNGST_I_HUSHNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BEFOLKNING_YNGST_I_REGSTAT_FAMNR": [
+    {
+      "dataset": "BEFOLKNING_YNGST_I_REGSTAT_FAMNR__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_YNGST_I_REGSTAT_FAMNR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BEFOLKNING_YNGST_I_REGSTAT_FAMNR__2_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_ANTALL_BAD": [
+    {
+      "dataset": "BOFORHOLD_ANTALL_BAD__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BAD__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_ANTALL_BOLIGER": [
+    {
+      "dataset": "BOFORHOLD_ANTALL_BOLIGER__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BOLIGER__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BOLIGER__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_BOLIGER__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_ANTALL_ETASJER": [
+    {
+      "dataset": "BOFORHOLD_ANTALL_ETASJER__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ETASJER__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ETASJER__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ETASJER__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_ANTALL_ROM": [
+    {
+      "dataset": "BOFORHOLD_ANTALL_ROM__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ROM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ROM__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_ROM__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_ANTALL_WC": [
+    {
+      "dataset": "BOFORHOLD_ANTALL_WC__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_WC__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_WC__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_ANTALL_WC__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BOLETA": [
+    {
+      "dataset": "BOFORHOLD_BOLETA__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLETA__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLETA__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLETA__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BOLIG_HUSH": [
+    {
+      "dataset": "BOFORHOLD_BOLIG_HUSH__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLIG_HUSH__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLIG_HUSH__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BOLIG_HUSH__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BRUKSAREAL": [
+    {
+      "dataset": "BOFORHOLD_BRUKSAREAL__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSAREAL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSAREAL__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSAREAL__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BRUKSENHETSTYPE": [
+    {
+      "dataset": "BOFORHOLD_BRUKSENHETSTYPE__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSENHETSTYPE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSENHETSTYPE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BRUKSENHETSTYPE__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BYGGEAAR": [
+    {
+      "dataset": "BOFORHOLD_BYGGEAAR__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "BOFORHOLD_BYGGEAAR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "BOFORHOLD_BYGGEAAR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "BOFORHOLD_BYGGEAAR__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    }
+  ],
+  "BOFORHOLD_BYGNINGSTYPE_AGGR": [
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE_AGGR__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE_AGGR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE_AGGR__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE_AGGR__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_BYGNINGSTYPE": [
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_BYGNINGSTYPE__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_EIEFORM": [
+    {
+      "dataset": "BOFORHOLD_EIEFORM__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIEFORM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIEFORM__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIEFORM__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_EIE_LEIE": [
+    {
+      "dataset": "BOFORHOLD_EIE_LEIE__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIE_LEIE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIE_LEIE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_EIE_LEIE__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_HEIS": [
+    {
+      "dataset": "BOFORHOLD_HEIS__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_HUSHTYPE": [
+    {
+      "dataset": "BOFORHOLD_HUSHTYPE__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_HUSHTYPE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_HUSHTYPE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_HUSHTYPE__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_KILDE_KOBL": [
+    {
+      "dataset": "BOFORHOLD_KILDE_KOBL__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KILDE_KOBL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KILDE_KOBL__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KILDE_KOBL__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_KJOKKENKODE": [
+    {
+      "dataset": "BOFORHOLD_KJOKKENKODE__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KJOKKENKODE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KJOKKENKODE__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KJOKKENKODE__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_KOBLNIVAA_HUSH_BOLIG": [
+    {
+      "dataset": "BOFORHOLD_KOBLNIVAA_HUSH_BOLIG__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KOBLNIVAA_HUSH_BOLIG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KOBLNIVAA_HUSH_BOLIG__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_KOBLNIVAA_HUSH_BOLIG__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_P_AREAL": [
+    {
+      "dataset": "BOFORHOLD_P_AREAL__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_P_AREAL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_P_AREAL__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_P_AREAL__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOFORHOLD_TRANGBODD": [
+    {
+      "dataset": "BOFORHOLD_TRANGBODD__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_TRANGBODD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_TRANGBODD__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "BOFORHOLD_TRANGBODD__8_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "BOSATTEFDT_BOSTED": [
+    {
+      "dataset": "BOSATTEFDT_BOSTED__13_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BOSATTEFDT_BOSTED__1_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BOSATTEFDT_BOSTED__3_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "BOSATTEFDT_BOSTED__7_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "ENSLIGBTSFDT_MOTTAK": [
+    {
+      "dataset": "ENSLIGBTSFDT_MOTTAK__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ENSLIGBTSFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ENSLIGBTSFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ENSLIGOVGFDT_MOTTAK": [
+    {
+      "dataset": "ENSLIGOVGFDT_MOTTAK__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ENSLIGOVGFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ENSLIGOVGFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ENSLIGUTDFDT_MOTTAK": [
+    {
+      "dataset": "ENSLIGUTDFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATBRN1992FDT_MOTTAK": [
+    {
+      "dataset": "ETLATBRN1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATBRN2011FDT_MOTTAK": [
+    {
+      "dataset": "ETLATBRN2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATBRN2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATBRN2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATEKT1992FDT_MOTTAK": [
+    {
+      "dataset": "ETLATEKT1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATEKT2011FDT_GRAD": [
+    {
+      "dataset": "ETLATEKT2011FDT_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATEKT2011FDT_GRAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATEKT2011FDT_GRAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATEKT2011FDT_MOTTAK": [
+    {
+      "dataset": "ETLATEKT2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATEKT2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATEKT2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATFAM1992FDT_MOTTAK": [
+    {
+      "dataset": "ETLATFAM1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "ETLATFAM2011FDT_MOTTAK": [
+    {
+      "dataset": "ETLATFAM2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATFAM2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "ETLATFAM2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "FUFOERPFDT_MOTTAK": [
+    {
+      "dataset": "FUFOERPFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "FUFOERPFDT_UFG": [
+    {
+      "dataset": "FUFOERPFDT_UFG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "GRUNNSTFDT_MOTTAK": [
+    {
+      "dataset": "GRUNNSTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "GRUNNSTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "GRUNNSTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "HJELPSTFDT_MOTTAK": [
+    {
+      "dataset": "HJELPSTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "HJELPSTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "HJELPSTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_AFP_OFF": [
+    {
+      "dataset": "INNTEKT_AFP_OFF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_OFF__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_OFF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_AFP_PRIV": [
+    {
+      "dataset": "INNTEKT_AFP_PRIV__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_PRIV__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_PRIV__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_AFP_SUM": [
+    {
+      "dataset": "INNTEKT_AFP_SUM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_SUM__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AFP_SUM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_AKSJEUTBYTTE": [
+    {
+      "dataset": "INNTEKT_AKSJEUTBYTTE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AKSJEUTBYTTE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AKSJEUTBYTTE__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_AKSJEUTBYTTE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_ALDERSP_FOLKETR": [
+    {
+      "dataset": "INNTEKT_ALDERSP_FOLKETR__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ALDERSP_FOLKETR__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ALDERSP_FOLKETR__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_ANDREKAPINNT": [
+    {
+      "dataset": "INNTEKT_ANDREKAPINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ANDREKAPINNT__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ANDREKAPINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_ARBLED": [
+    {
+      "dataset": "INNTEKT_ARBLED__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ARBLED__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ARBLED__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ARBLED__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_ASK_MARK": [
+    {
+      "dataset": "INNTEKT_ASK_MARK__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_ASK_MARK__9_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BANKINNSK": [
+    {
+      "dataset": "INNTEKT_BANKINNSK__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BANKINNSK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BANKINNSK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BANKINNSK__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BARNETRYGD": [
+    {
+      "dataset": "INNTEKT_BARNETRYGD__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BARNETRYGD__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BARNETRYGD__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BER_BRFORM": [
+    {
+      "dataset": "INNTEKT_BER_BRFORM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_BRFORM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_BRFORM__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_BRFORM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BER_REALKAP": [
+    {
+      "dataset": "INNTEKT_BER_REALKAP__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_REALKAP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_REALKAP__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BER_REALKAP__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BOSTOTTE": [
+    {
+      "dataset": "INNTEKT_BOSTOTTE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BOSTOTTE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BOSTOTTE__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BOSTOTTE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BRUTTOFORM": [
+    {
+      "dataset": "INNTEKT_BRUTTOFORM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BRUTTOFORM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BRUTTOFORM__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BRUTTOFORM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_BRUTTO_FINANSKAPITAL": [
+    {
+      "dataset": "INNTEKT_BRUTTO_FINANSKAPITAL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BRUTTO_FINANSKAPITAL__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_BRUTTO_FINANSKAPITAL__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FOND": [
+    {
+      "dataset": "INNTEKT_FOND__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FOND__9_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FORELDREPENGER": [
+    {
+      "dataset": "INNTEKT_FORELDREPENGER__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORELDREPENGER__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORELDREPENGER__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FORMUESKATT": [
+    {
+      "dataset": "INNTEKT_FORMUESKATT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORMUESKATT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORMUESKATT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORMUESKATT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FORMUE_UTLAND": [
+    {
+      "dataset": "INNTEKT_FORMUE_UTLAND__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FORMUE_UTLAND__9_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FORSORGERFRADRAG": [
+    {
+      "dataset": "INNTEKT_FORSORGERFRADRAG__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_FTRYG": [
+    {
+      "dataset": "INNTEKT_FTRYG__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FTRYG__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_FTRYG__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_GJELD": [
+    {
+      "dataset": "INNTEKT_GJELD__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GJELD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GJELD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GJELD__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_GRUNN_HJELP": [
+    {
+      "dataset": "INNTEKT_GRUNN_HJELP__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GRUNN_HJELP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GRUNN_HJELP__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_GRUNN_HJELP__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_HUSHNR": [
+    {
+      "dataset": "INNTEKT_HUSHNR__15_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "INNTEKT_HUSHNR__1_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "INNTEKT_HUSHNR__3_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "INNTEKT_HUSHNR__6_0",
+      "identifier": "PERSON",
+      "measure": "HUSHOLDNING",
+      "format": "RandomUInt48"
+    }
+  ],
+  "INNTEKT_HUSH_IES_EU": [
+    {
+      "dataset": "INNTEKT_HUSH_IES_EU__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_HUSH_IES_EU__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_HUSH_IES_EU__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_HUSH_IES": [
+    {
+      "dataset": "INNTEKT_HUSH_IES__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_HUSH_IES__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_HUSH_IES__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_IES": [
+    {
+      "dataset": "INNTEKT_IES__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_KODE218": [
+    {
+      "dataset": "INNTEKT_KODE218__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KODE218__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KODE218__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KODE218__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_KONTANTSTOTTE": [
+    {
+      "dataset": "INNTEKT_KONTANTSTOTTE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KONTANTSTOTTE__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KONTANTSTOTTE__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_KONTANTSTOTTE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_LONN": [
+    {
+      "dataset": "INNTEKT_LONN__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_LONN__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_LONN__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_NARINNT": [
+    {
+      "dataset": "INNTEKT_NARINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_NARINNT__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_NARINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_OVERFOR": [
+    {
+      "dataset": "INNTEKT_OVERFOR__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_OVERFOR__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_OVERFOR__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_PGIVINNT": [
+    {
+      "dataset": "INNTEKT_PGIVINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PGIVINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PGIVINNT__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PGIVINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_PRIM_MARK": [
+    {
+      "dataset": "INNTEKT_PRIM_MARK__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PRIM_MARK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PRIM_MARK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_PRIM_MARK__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_REALISASJONSGEVINST": [
+    {
+      "dataset": "INNTEKT_REALISASJONSGEVINST__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSGEVINST__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSGEVINST__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSGEVINST__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_REALISASJONSTAP": [
+    {
+      "dataset": "INNTEKT_REALISASJONSTAP__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSTAP__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSTAP__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REALISASJONSTAP__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_REAL": [
+    {
+      "dataset": "INNTEKT_REAL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REAL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REAL__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_REAL__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_RENTINNT": [
+    {
+      "dataset": "INNTEKT_RENTINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTINNT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_RENTUT": [
+    {
+      "dataset": "INNTEKT_RENTUT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTUT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTUT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_RENTUT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_SEK_MARK": [
+    {
+      "dataset": "INNTEKT_SEK_MARK__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SEK_MARK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SEK_MARK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SEK_MARK__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_SKPLOVF": [
+    {
+      "dataset": "INNTEKT_SKPLOVF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SKPLOVF__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SKPLOVF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_SOSIAL": [
+    {
+      "dataset": "INNTEKT_SOSIAL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SOSIAL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SOSIAL__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SOSIAL__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_STUDIESTIPEND": [
+    {
+      "dataset": "INNTEKT_STUDIESTIPEND__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_STUDIESTIPEND__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_STUDIESTIPEND__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_STUDIESTIPEND__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_SUM_ARBAVKL": [
+    {
+      "dataset": "INNTEKT_SUM_ARBAVKL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SUM_ARBAVKL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SUM_ARBAVKL__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SUM_ARBAVKL__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_SYKEPENGER": [
+    {
+      "dataset": "INNTEKT_SYKEPENGER__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SYKEPENGER__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SYKEPENGER__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_SYKEPENGER__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_TJENPEN": [
+    {
+      "dataset": "INNTEKT_TJENPEN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_USIKRET_GJELD": [
+    {
+      "dataset": "INNTEKT_USIKRET_GJELD__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_USIKRET_GJELD__9_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_UTSKATT": [
+    {
+      "dataset": "INNTEKT_UTSKATT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_UTSKATT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_UTSKATT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_UTSKATT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_VERDIPAPIR": [
+    {
+      "dataset": "INNTEKT_VERDIPAPIR__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_VERDIPAPIR__9_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WIES_KORRIGERT": [
+    {
+      "dataset": "INNTEKT_WIES_KORRIGERT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WIES": [
+    {
+      "dataset": "INNTEKT_WIES__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WIES__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WIES__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WIES__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WKAPINNT_KORRIGERT": [
+    {
+      "dataset": "INNTEKT_WKAPINNT_KORRIGERT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WKAPINNT": [
+    {
+      "dataset": "INNTEKT_WKAPINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WKAPINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WKAPINNT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WKAPINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WLONN": [
+    {
+      "dataset": "INNTEKT_WLONN__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WLONN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WLONN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WLONN__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WNARINNT": [
+    {
+      "dataset": "INNTEKT_WNARINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WNARINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WNARINNT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WNARINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WOVERFOR_KORRIGERT": [
+    {
+      "dataset": "INNTEKT_WOVERFOR_KORRIGERT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WOVERFOR": [
+    {
+      "dataset": "INNTEKT_WOVERFOR__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WOVERFOR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WOVERFOR__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WOVERFOR__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WSAMINNT_KORRIGERT": [
+    {
+      "dataset": "INNTEKT_WSAMINNT_KORRIGERT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WSAMINNT": [
+    {
+      "dataset": "INNTEKT_WSAMINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSAMINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSAMINNT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSAMINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WSKATOVF": [
+    {
+      "dataset": "INNTEKT_WSKATOVF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKATOVF__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKATOVF__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKATOVF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WSKFROVF": [
+    {
+      "dataset": "INNTEKT_WSKFROVF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKFROVF__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKFROVF__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKFROVF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WSKPLOVF": [
+    {
+      "dataset": "INNTEKT_WSKPLOVF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKPLOVF__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKPLOVF__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WSKPLOVF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_WYRKINNT": [
+    {
+      "dataset": "INNTEKT_WYRKINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WYRKINNT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WYRKINNT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_WYRKINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INNTEKT_YRKINNT": [
+    {
+      "dataset": "INNTEKT_YRKINNT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_YRKINNT__4_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INNTEKT_YRKINNT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "INTROSTFDT_MOTTAK": [
+    {
+      "dataset": "INTROSTFDT_MOTTAK__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INTROSTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INTROSTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "INTROSTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "KJORETOY_DRIVSTOFF_OMK": [
+    {
+      "dataset": "KJORETOY_DRIVSTOFF_OMK__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": null
+    }
+  ],
+  "KJORETOY_EG_VEKT": [
+    {
+      "dataset": "KJORETOY_EG_VEKT__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": null
+    }
+  ],
+  "KJORETOY_FREG_AR": [
+    {
+      "dataset": "KJORETOY_FREG_AR__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": "YYYY"
+    }
+  ],
+  "KJORETOY_KJORETOYID_FNR": [
+    {
+      "dataset": "KJORETOY_KJORETOYID_FNR__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": "RandomUInt48"
+    }
+  ],
+  "KJORETOY_KJT_GRUP": [
+    {
+      "dataset": "KJORETOY_KJT_GRUP__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": null
+    }
+  ],
+  "KJORETOY_TOT_VEKT": [
+    {
+      "dataset": "KJORETOY_TOT_VEKT__17_0",
+      "identifier": "KJORETOY",
+      "measure": "KJORETOY",
+      "format": null
+    }
+  ],
+  "KVALIFSTFDT_MOTTAK": [
+    {
+      "dataset": "KVALIFSTFDT_MOTTAK__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "KVALIFSTZFDT_ANT_KOM": [
+    {
+      "dataset": "KVALIFSTZFDT_ANT_KOM__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_ANT_KOM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_ANT_KOM__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_ANT_KOM__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "KVALIFSTZFDT_KVP_STONAD": [
+    {
+      "dataset": "KVALIFSTZFDT_KVP_STONAD__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_KVP_STONAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_KVP_STONAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "KVALIFSTZFDT_KVP_STONAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_SALDO_GEBYR": [
+    {
+      "dataset": "LAANEKASSEN_SALDO_GEBYR__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_SALDO_GEBYR__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_SALDO_LAAN": [
+    {
+      "dataset": "LAANEKASSEN_SALDO_LAAN__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_SALDO_LAAN__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_SALDO_OMKOSTNINGER": [
+    {
+      "dataset": "LAANEKASSEN_SALDO_OMKOSTNINGER__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_SALDO_OMKOSTNINGER__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_SALDO_RENTER": [
+    {
+      "dataset": "LAANEKASSEN_SALDO_RENTER__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_SALDO_RENTER__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_UTBETALT_LAAN": [
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_LAAN__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_LAAN__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_UTBETALT_STIPEND_ANNET": [
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_STIPEND_ANNET__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_EXAMEN": [
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_EXAMEN__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_GRAD": [
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_GRAD__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "LAANEKASSEN_UTBETALT_STIPEND": [
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_STIPEND__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "LAANEKASSEN_UTBETALT_STIPEND__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_BACH": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_BACH__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_BACH__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_BACH__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_CMG": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_CMG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_CMG__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_CMG__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_DOK": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_DOK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_DOK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_DOK__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_GS": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_GS__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_GS__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_GS__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYY"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_HOV": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOV__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOV__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOV__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_HOY": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOY__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOY__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_HOY__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VSA_LOV": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VSA_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VSA": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VSA__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VSY_LOV": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VSY_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VSY": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VSY__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VS_LOV": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VS_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_FULLF_VS": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VS__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VS__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    },
+    {
+      "dataset": "NUDB_AAR_FORSTE_FULLF_VS__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_REG_HOV": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_REG_HOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_FORSTE_REG_UH": [
+    {
+      "dataset": "NUDB_AAR_FORSTE_REG_UH__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_NY_I_VID_UTD_LOV": [
+    {
+      "dataset": "NUDB_AAR_NY_I_VID_UTD_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_AAR_NY_I_VID_UTD": [
+    {
+      "dataset": "NUDB_AAR_NY_I_VID_UTD__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": "YYYYMM"
+    }
+  ],
+  "NUDB_ALDER_FORSTE_REG_UH": [
+    {
+      "dataset": "NUDB_ALDER_FORSTE_REG_UH__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_BU": [
+    {
+      "dataset": "NUDB_BU__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_BU__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_BU__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_ENM": [
+    {
+      "dataset": "NUDB_GS_STP_ENM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_ENM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_ENS": [
+    {
+      "dataset": "NUDB_GS_STP_ENS__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_ENS__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_HEI": [
+    {
+      "dataset": "NUDB_GS_STP_HEI__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_KHV": [
+    {
+      "dataset": "NUDB_GS_STP_KHV__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_KHV__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_KRL": [
+    {
+      "dataset": "NUDB_GS_STP_KRL__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_KROE": [
+    {
+      "dataset": "NUDB_GS_STP_KROE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_KRO": [
+    {
+      "dataset": "NUDB_GS_STP_KRO__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_KRO__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_MAT": [
+    {
+      "dataset": "NUDB_GS_STP_MAT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_MAT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_MHE": [
+    {
+      "dataset": "NUDB_GS_STP_MHE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_MHE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_MUS": [
+    {
+      "dataset": "NUDB_GS_STP_MUS__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_MUS__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_NAM": [
+    {
+      "dataset": "NUDB_GS_STP_NAM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_NAT": [
+    {
+      "dataset": "NUDB_GS_STP_NAT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_NAT__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_NOH": [
+    {
+      "dataset": "NUDB_GS_STP_NOH__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_NOH__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_NOM": [
+    {
+      "dataset": "NUDB_GS_STP_NOM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_NOM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_NOS": [
+    {
+      "dataset": "NUDB_GS_STP_NOS__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_NOS__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_RLE": [
+    {
+      "dataset": "NUDB_GS_STP_RLE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_RLE__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_SAF": [
+    {
+      "dataset": "NUDB_GS_STP_SAF__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_GS_STP_SAF__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_GS_STP_SAM": [
+    {
+      "dataset": "NUDB_GS_STP_SAM__6_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KOMM_16": [
+    {
+      "dataset": "NUDB_KOMM_16__1_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KOMM_16__3_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KOMM_16__9_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "NUDB_KURS_EIERF": [
+    {
+      "dataset": "NUDB_KURS_EIERF__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_FNR": [
+    {
+      "dataset": "NUDB_KURS_FNR__17_0",
+      "identifier": "KURS",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_FNR__1_0",
+      "identifier": "KURS",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_FNR__3_0",
+      "identifier": "KURS",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_FNR__9_0",
+      "identifier": "KURS",
+      "measure": "PERSON",
+      "format": "RandomUInt48"
+    }
+  ],
+  "NUDB_KURS_FULLAND": [
+    {
+      "dataset": "NUDB_KURS_FULLAND__13_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_FULLAND__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_GRPOENG": [
+    {
+      "dataset": "NUDB_KURS_GRPOENG__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_GRPOENG__17_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_HELDEL": [
+    {
+      "dataset": "NUDB_KURS_HELDEL__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_KOMP": [
+    {
+      "dataset": "NUDB_KURS_KOMP__13_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_KOMP__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_LOEPENR": [
+    {
+      "dataset": "NUDB_KURS_LOEPENR__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_LOEPENR__1_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_LOEPENR__3_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "NUDB_KURS_LOEPENR__9_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": "RandomUInt48"
+    }
+  ],
+  "NUDB_KURS_NUS": [
+    {
+      "dataset": "NUDB_KURS_NUS__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_NUS__1_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_NUS__3_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_NUS__9_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_REALKOMP": [
+    {
+      "dataset": "NUDB_KURS_REALKOMP__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_RETT": [
+    {
+      "dataset": "NUDB_KURS_RETT__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_UHGRUPPE": [
+    {
+      "dataset": "NUDB_KURS_UHGRUPPE__13_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_UHGRUPPE__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_UTD": [
+    {
+      "dataset": "NUDB_KURS_UTD__13_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_UTD__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_KURS_UTFALL": [
+    {
+      "dataset": "NUDB_KURS_UTFALL__17_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_UTFALL__1_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_UTFALL__3_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_KURS_UTFALL__9_0",
+      "identifier": "KURS",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPENG05": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPENG05__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPENG05__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPENG08": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPENG08__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPENG08__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPENG08__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPLES05": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES05__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES05__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES05__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPLES08": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES08__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES08__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES08__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPLES09": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES09__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES09__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPLES09__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPREG05": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG05__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG05__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPREG08": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG08__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG08__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG08__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NP_SKALAPOENG_NPREG09": [
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG09__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG09__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NP_SKALAPOENG_NPREG09__5_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NUS2000_FAR_16": [
+    {
+      "dataset": "NUDB_NUS2000_FAR_16__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NUS2000_FAR_16__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NUS2000_FAR_16__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_NUS2000_MOR_16": [
+    {
+      "dataset": "NUDB_NUS2000_MOR_16__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NUS2000_MOR_16__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_NUS2000_MOR_16__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_BACH": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_BACH__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_DOK": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_DOK__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_HOV": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_HOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_HOY": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_HOY__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VSA_LOV": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VSA_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VSA": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VSA__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VSY_LOV": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VSY_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VSY": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VSY__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VS_LOV": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VS_LOV__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SEMESTER_FFF_VS": [
+    {
+      "dataset": "NUDB_SEMESTER_FFF_VS__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_SOSBAK": [
+    {
+      "dataset": "NUDB_SOSBAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_SOSBAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "NUDB_SOSBAK__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_ENG1002": [
+    {
+      "dataset": "NUDB_VGS_STP_ENG1002__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_ENG1003": [
+    {
+      "dataset": "NUDB_VGS_STP_ENG1003__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_ENG1007": [
+    {
+      "dataset": "NUDB_VGS_STP_ENG1007__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_ENG1009": [
+    {
+      "dataset": "NUDB_VGS_STP_ENG1009__16_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_MAT1005": [
+    {
+      "dataset": "NUDB_VGS_STP_MAT1005__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_MAT1015": [
+    {
+      "dataset": "NUDB_VGS_STP_MAT1015__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1206": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1206__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1211": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1211__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1212": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1212__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1213": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1213__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1231": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1231__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1232": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1232__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "NUDB_VGS_STP_NOR1233": [
+    {
+      "dataset": "NUDB_VGS_STP_NOR1233__12_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_BTFAK": [
+    {
+      "dataset": "PENSJ1967FDT_BTFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_ETFAK": [
+    {
+      "dataset": "PENSJ1967FDT_ETFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_FRADFAK": [
+    {
+      "dataset": "PENSJ1967FDT_FRADFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_GPFAK": [
+    {
+      "dataset": "PENSJ1967FDT_GPFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_STFAK": [
+    {
+      "dataset": "PENSJ1967FDT_STFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_TPFAK": [
+    {
+      "dataset": "PENSJ1967FDT_TPFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_UFG": [
+    {
+      "dataset": "PENSJ1967FDT_UFG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJ1967FDT_VTSMFAK": [
+    {
+      "dataset": "PENSJ1967FDT_VTSMFAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJPOENGFDT_OPT": [
+    {
+      "dataset": "PENSJPOENGFDT_OPT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "PENSJPOENGFDT_SPT": [
+    {
+      "dataset": "PENSJPOENGFDT_SPT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ARBKOMM": [
+    {
+      "dataset": "REGSYS_ARBKOMM__1_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARBKOMM__3_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "REGSYS_ARBTID": [
+    {
+      "dataset": "REGSYS_ARBTID__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ARBTIM": [
+    {
+      "dataset": "REGSYS_ARBTIM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARBTIM__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ARB_ARBEIDSTID": [
+    {
+      "dataset": "REGSYS_ARB_ARBEIDSTID__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBEIDSTID__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBEIDSTID__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ARB_ARBKOMM": [
+    {
+      "dataset": "REGSYS_ARB_ARBKOMM__15_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBKOMM__3_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBKOMM__7_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "REGSYS_ARB_ARBMARK_STATUS": [
+    {
+      "dataset": "REGSYS_ARB_ARBMARK_STATUS__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBMARK_STATUS__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_ARBMARK_STATUS__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ARB_YRKE_STYRK08": [
+    {
+      "dataset": "REGSYS_ARB_YRKE_STYRK08__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_YRKE_STYRK08__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_ARB_YRKE_STYRK08__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_FORG_FRM": [
+    {
+      "dataset": "REGSYS_FORG_FRM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_FORG_FRM__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_FRTK_ID_SSB": [
+    {
+      "dataset": "REGSYS_FRTK_ID_SSB__15_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_FRTK_ID_SSB__3_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_FRTK_ID_SSB__4_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_FRTK_ID_SSB__7_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    }
+  ],
+  "REGSYS_FRTK_ORG_FORM": [
+    {
+      "dataset": "REGSYS_FRTK_ORG_FORM__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_FRTK_ORG_FORM__4_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_FRTK_ORG_FORM__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_FRTK_SEKTOR_2014": [
+    {
+      "dataset": "REGSYS_FRTK_SEKTOR_2014__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_FRTK_SEKTOR_2014__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_NARING_SN2002": [
+    {
+      "dataset": "REGSYS_NARING_SN2002__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_NARING_SN2007": [
+    {
+      "dataset": "REGSYS_NARING_SN2007__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_NARING_SN2007__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_NARING_SN94": [
+    {
+      "dataset": "REGSYS_NARING_SN94__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_ORGBED": [
+    {
+      "dataset": "REGSYS_ORGBED__1_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_ORGBED__3_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    }
+  ],
+  "REGSYS_ORGFOR": [
+    {
+      "dataset": "REGSYS_ORGFOR__1_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_ORGFOR__3_0",
+      "identifier": "PERSON",
+      "measure": "FORETAK",
+      "format": "RandomUInt48"
+    }
+  ],
+  "REGSYS_SEKTOR_2014": [
+    {
+      "dataset": "REGSYS_SEKTOR_2014__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_SEKTOR_2014__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_SEKTOR": [
+    {
+      "dataset": "REGSYS_SEKTOR__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_VIRK_ID_SSB": [
+    {
+      "dataset": "REGSYS_VIRK_ID_SSB__15_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_VIRK_ID_SSB__3_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_VIRK_ID_SSB__4_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    },
+    {
+      "dataset": "REGSYS_VIRK_ID_SSB__7_0",
+      "identifier": "PERSON",
+      "measure": "VIRKSOMHET",
+      "format": "RandomUInt48"
+    }
+  ],
+  "REGSYS_VIRK_NACE1_SN07": [
+    {
+      "dataset": "REGSYS_VIRK_NACE1_SN07__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_VIRK_NACE1_SN07__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_YRKE_PUBL": [
+    {
+      "dataset": "REGSYS_YRKE_PUBL__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REGSYS_YRKSTAT": [
+    {
+      "dataset": "REGSYS_YRKSTAT__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "REGSYS_YRKSTAT__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REHABFDT_DAGSATS": [
+    {
+      "dataset": "REHABFDT_DAGSATS__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REHABFDT_INNV_GRAD": [
+    {
+      "dataset": "REHABFDT_INNV_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "REHABFDT_MOTTAK": [
+    {
+      "dataset": "REHABFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SIVSTANDFDT_SIVSTAND": [
+    {
+      "dataset": "SIVSTANDFDT_SIVSTAND__13_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SIVSTANDFDT_SIVSTAND__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SIVSTANDFDT_SIVSTAND__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SIVSTANDFDT_SIVSTAND__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_ALMINNELIG_INNTEKT": [
+    {
+      "dataset": "SKATT_ALMINNELIG_INNTEKT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_ALMINNELIG_INNTEKT__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_ANVENDT_SAERFRADRAG": [
+    {
+      "dataset": "SKATT_ANVENDT_SAERFRADRAG__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_ANVENDT_SAERFRADRAG__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_ARV_GAVER": [
+    {
+      "dataset": "SKATT_ARV_GAVER__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_ARV_GAVER__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_BRUTTOFORMUE": [
+    {
+      "dataset": "SKATT_BRUTTOFORMUE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_BRUTTOFORMUE__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_BRUTTOINNTEKT": [
+    {
+      "dataset": "SKATT_BRUTTOINNTEKT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_BRUTTOINNTEKT__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_BRUTTO_FINANSKAPITAL": [
+    {
+      "dataset": "SKATT_BRUTTO_FINANSKAPITAL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_BRUTTO_FINANSKAPITAL__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_FASTSATT_SKATT": [
+    {
+      "dataset": "SKATT_FASTSATT_SKATT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_FASTSATT_SKATT__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_FORMUESKATT": [
+    {
+      "dataset": "SKATT_FORMUESKATT__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_FORMUESKATT__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_FRADR_FAGFORENING": [
+    {
+      "dataset": "SKATT_FRADR_FAGFORENING__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_FRADR_FAGFORENING__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_FRADR_REISEUTGIFTER": [
+    {
+      "dataset": "SKATT_FRADR_REISEUTGIFTER__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_FRADR_REISEUTGIFTER__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_GJELD": [
+    {
+      "dataset": "SKATT_GJELD__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_GJELD__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_MERUTG_KOST_LOSJI": [
+    {
+      "dataset": "SKATT_MERUTG_KOST_LOSJI__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_MERUTG_KOST_LOSJI__9_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_NETTOFORMUE": [
+    {
+      "dataset": "SKATT_NETTOFORMUE__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_NETTOFORMUE__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SKATT_REALKAPITAL": [
+    {
+      "dataset": "SKATT_REALKAPITAL__15_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SKATT_REALKAPITAL__9_2",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SOSHJLPFDT_MOTTAK": [
+    {
+      "dataset": "SOSHJLPFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SOSHJLPZFDT_ANTKOM": [
+    {
+      "dataset": "SOSHJLPZFDT_ANTKOM__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_ANTKOM__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_ANTKOM__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SOSHJLPZFDT_BIDB": [
+    {
+      "dataset": "SOSHJLPZFDT_BIDB__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_BIDB__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_BIDB__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SOSHJLPZFDT_LAAN": [
+    {
+      "dataset": "SOSHJLPZFDT_LAAN__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_LAAN__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_LAAN__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SOSHJLPZFDT_MNDUTBET": [
+    {
+      "dataset": "SOSHJLPZFDT_MNDUTBET__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_MNDUTBET__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SOSHJLPZFDT_MNDUTBET__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SUPPLSTFDT_MOTTAK": [
+    {
+      "dataset": "SUPPLSTFDT_MOTTAK__10_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SUPPLSTFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SUPPLSTFDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "SUPPLSTFDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SYKEFRAVAR_AVTALTE_DAGSVERK1": [
+    {
+      "dataset": "SYKEFRAVAR_AVTALTE_DAGSVERK1__15_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SYKEFRAVAR_AVTALTE_DAGSVERK": [
+    {
+      "dataset": "SYKEFRAVAR_AVTALTE_DAGSVERK__14_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SYKEFRAVAR_SYKEFRAVAR_DAGSVERK1": [
+    {
+      "dataset": "SYKEFRAVAR_SYKEFRAVAR_DAGSVERK1__15_0",
+      "identifier": "JOBB",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "SYKEFRAVAR_SYKEFRAVAR_DAGSVERK": [
+    {
+      "dataset": "SYKEFRAVAR_SYKEFRAVAR_DAGSVERK__14_1",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "TIDSUFOERPFDT_MOTTAK": [
+    {
+      "dataset": "TIDSUFOERPFDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "TIDSUFOERPFDT_UFG": [
+    {
+      "dataset": "TIDSUFOERPFDT_UFG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "UFOERP1992FDT_MOTTAK": [
+    {
+      "dataset": "UFOERP1992FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "UFOERP1992FDT_UFG": [
+    {
+      "dataset": "UFOERP1992FDT_UFG__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "UFOERP2011FDT_GRAD": [
+    {
+      "dataset": "UFOERP2011FDT_GRAD__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "UFOERP2011FDT_GRAD__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "UFOERP2011FDT_GRAD__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "UFOERP2011FDT_MOTTAK": [
+    {
+      "dataset": "UFOERP2011FDT_MOTTAK__1_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "UFOERP2011FDT_MOTTAK__3_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    },
+    {
+      "dataset": "UFOERP2011FDT_MOTTAK__7_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "VALG_FORHAAND_SSB": [
+    {
+      "dataset": "VALG_FORHAAND_SSB__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "VALG_FULLTELLINGSKOMMUNE": [
+    {
+      "dataset": "VALG_FULLTELLINGSKOMMUNE__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "VALG_MANNTALLSKONTROLL_SSB": [
+    {
+      "dataset": "VALG_MANNTALLSKONTROLL_SSB__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "VALG_MANNTALL_KOMMNR": [
+    {
+      "dataset": "VALG_MANNTALL_KOMMNR__11_0",
+      "identifier": "PERSON",
+      "measure": "KOMMUNE",
+      "format": null
+    }
+  ],
+  "VALG_STEMT_SSB": [
+    {
+      "dataset": "VALG_STEMT_SSB__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ],
+  "VALG_TVERRVEKT": [
+    {
+      "dataset": "VALG_TVERRVEKT__11_0",
+      "identifier": "PERSON",
+      "measure": null,
+      "format": null
+    }
+  ]
+}
