@@ -73,7 +73,7 @@ for root, dirs, files in os.walk(metadata_all_files_dir):
 
 print('Metadata dict loaded in memory ...')
 
-with open("convert_to_parquet.template") as f:
+with open("../templates/convert_to_parquet.template") as f:
     convert_to_parquet_template = f.read().splitlines()
 
 # 2. Checks metadata dictionary for each csv file and writes the command to bash script

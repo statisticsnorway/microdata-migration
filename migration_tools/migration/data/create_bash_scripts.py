@@ -27,7 +27,7 @@ output_dir = "/Users/vak/temp/sql_dump_files"
 with open(tables_file) as f:
     table_list = f.read().splitlines()
 
-with open("sql_table_dump.template") as f:
+with open("../templates/sql_table_dump.template") as f:
     table_dump_template = f.read().splitlines()
 
 for table_name in table_list:
