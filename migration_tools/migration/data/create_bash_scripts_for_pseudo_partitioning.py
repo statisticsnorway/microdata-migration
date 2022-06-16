@@ -88,36 +88,36 @@ for table_instance in table_dict:
                 sqlfile.write('\n'.join(list(transformed_template)))
 
 # 2. Creates sh files
-# with open("sh_script.template") as f:
-#     script_template = f.read().splitlines()
-#
-# i = 0
-# script_number = 0
-# sh_script = []
-#
-# for root, dirs, files in os.walk(output_dir):
-#     for filename in files:
-#         if not filename.startswith("dump"):
-#             continue
-#         transformed_template = map(lambda line: line.replace('<SQL_SCRIPT>', filename), script_template)
-#         sh_script.extend(list(transformed_template))
-#         i += 1
-#         if i != number_of_tables_in_bash_script:
-#             continue
-#         i = 0
-#         script_number += 1
-#         file_path = f'{output_dir}/dump_tables_{script_number}.sh'
-#         transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'dump_tables_{script_number}.log'), sh_script)
-#         with open(file_path, mode='wt', encoding='utf-8') as myfile:
-#             myfile.write('\n'.join(list(transformed_script)))
-#         sh_script = []
-#
-# if len(sh_script) > 0:
-#     script_number += 1
-#     file_path = f'{output_dir}/dump_tables_{script_number}.sh'
-#     transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'dump_tables_{script_number}.log'), sh_script)
-#     with open(file_path, mode='wt', encoding='utf-8') as myfile:
-#         myfile.write('\n'.join(list(transformed_script)))
+with open("../templates/sh_script.template") as f:
+    script_template = f.read().splitlines()
+
+i = 0
+script_number = 0
+sh_script = []
+
+for root, dirs, files in os.walk(output_dir):
+    for filename in files:
+        if not filename.startswith("append"):
+            continue
+        transformed_template = map(lambda line: line.replace('<SQL_SCRIPT>', filename), script_template)
+        sh_script.extend(list(transformed_template))
+        i += 1
+        if i != number_of_tables_in_bash_script:
+            continue
+        i = 0
+        script_number += 1
+        file_path = f'{output_dir}/append_tables_{script_number}.sh'
+        transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'append_tables_{script_number}.log'), sh_script)
+        with open(file_path, mode='wt', encoding='utf-8') as myfile:
+            myfile.write('\n'.join(list(transformed_script)))
+        sh_script = []
+
+if len(sh_script) > 0:
+    script_number += 1
+    file_path = f'{output_dir}/append_tables_{script_number}.sh'
+    transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'append_tables_{script_number}.log'), sh_script)
+    with open(file_path, mode='wt', encoding='utf-8') as myfile:
+        myfile.write('\n'.join(list(transformed_script)))
 #
 # # 3. Creates tar files
 # os.chdir(output_dir)
