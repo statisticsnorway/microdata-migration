@@ -37,7 +37,7 @@ for table_name in table_list:
         sqlfile.write('\n'.join(list(transformed_table_dump)))
 
 # 2. Creates sh files
-with open("sh_script.template") as f:
+with open("../templates/sh_script.template") as f:
     script_template = f.read().splitlines()
 
 i = 0
