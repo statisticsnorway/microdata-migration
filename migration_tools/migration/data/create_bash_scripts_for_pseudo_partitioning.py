@@ -23,7 +23,7 @@ import tarfile
 # ------------- runtime parameters --------------
 tables_file = "/Users/vak/projects/github/M.2.0/microdata-migration/migration_files/" \
               "raird_all_tables_unit_type_info_modified.json"
-number_of_tables_in_bash_script = 100
+number_of_tables_in_bash_script = 10
 output_dir = "/Users/vak/temp/pseudo_partition_files"
 # ------------- runtime parameters --------------
 
@@ -118,20 +118,20 @@ if len(sh_script) > 0:
     transformed_script = map(lambda line: line.replace('<LOG_FILE>', f'append_tables_{script_number}.log'), sh_script)
     with open(file_path, mode='wt', encoding='utf-8') as myfile:
         myfile.write('\n'.join(list(transformed_script)))
-#
-# # 3. Creates tar files
-# os.chdir(output_dir)
-# script_counter = 0
-# for file in os.listdir('.'):
-#     if file.endswith(".sh"):
-#         script_counter += 1
-#         tar_file = tarfile.open(f'sh_script_{script_counter}.tar', "w")
-#         tar_file.add(file)
-#         sh_file = open(file, 'r')
-#         lines = sh_file.readlines()
-#
-#         for line in lines:
-#             if line.startswith('#'):
-#                 sql_file = f'{line.split("# ")[1].strip()}'
-#                 tar_file.add(sql_file)
-#         tar_file.close()
+
+# 3. Creates tar files containing one bash script each with necessary .sql files
+os.chdir(output_dir)
+script_counter = 0
+for file in os.listdir('.'):
+    if file.endswith(".sh"):
+        script_counter += 1
+        tar_file = tarfile.open(f'sh_append_{script_counter}.tar', "w")
+        tar_file.add(file)
+        sh_file = open(file, 'r')
+        lines = sh_file.readlines()
+
+        for line in lines:
+            if line.startswith('#'):
+                sql_file = f'{line.split("# ")[1].strip()}'
+                tar_file.add(sql_file)
+        tar_file.close()
