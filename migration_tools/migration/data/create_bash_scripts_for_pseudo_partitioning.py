@@ -23,7 +23,7 @@ import tarfile
 # ------------- runtime parameters --------------
 tables_file = "/Users/vak/projects/github/M.2.0/microdata-migration/migration_files/" \
               "raird_all_tables_unit_type_info_modified.json"
-number_of_tables_in_bash_script = 10
+number_of_tables_in_bash_script = 160
 output_dir = "/Users/vak/temp/pseudo_partition_files"
 # ------------- runtime parameters --------------
 
@@ -33,9 +33,6 @@ with open(tables_file) as json_file:
 
 with open("../templates/append_to_pseudo_partition.tamplate") as f:
     append_to_partition_template = f.read().splitlines()
-
-# <PLACEHOLDER_PARTITION>
-# <PLACEHOLDER_TABLE_NAME>
 
 unit_type_to_unit_id = {
     "KURSID_1": "KURSID",
